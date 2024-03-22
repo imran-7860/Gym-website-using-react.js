@@ -15,7 +15,7 @@ const Header = () => {
       <div className=" md:fixed flex flex-row justify-between md:px-32 px-5 p-5 gap-16">
         <div className=" flex items-center p-2">
           <Link to="/">
-            <h1 className=" font-semibold text-2xl text-brightRed cursor-pointer">FitZone</h1>
+            <h1 className=" font-semibold text-5xl text-brightRed cursor-pointer">FitZone</h1>
           </Link>
         </div>
 
